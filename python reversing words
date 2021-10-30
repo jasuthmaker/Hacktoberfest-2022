@@ -1,0 +1,2 @@
+word = "Hello World"
+print("Reversed Result: ", word[::-1])
